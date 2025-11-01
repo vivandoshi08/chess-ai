@@ -1,0 +1,14 @@
+.env
+__pycache__
+network/weights/
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pkl
+*.jpg
+*.jpeg
+*.png
+*.gif
+.DS_Store
+README.md
